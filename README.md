@@ -7,3 +7,6 @@ RM means average number of rooms per dwelling.
 LSTAT means lower status of Population(percent).
 PTRATIO means pupil teacher ratio.
 MEDV means median value of owner occupied homes /$1000. And this is our target variable.
+Here in this file housing.csv we don't have any false or missing value so we didn't go for data preprocessing.
+
+
